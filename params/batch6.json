@@ -1,0 +1,13 @@
+{
+    "trimtp": 9,
+    "maxfit": 1.0,
+    "minmedplate": 0,
+    "maxmedplate": 1.5,
+    "iqrplate": 0,
+    "mincor": 0.7,
+    "topwells": 0.9,
+    "strongsyn": 0.1,
+    "weaksyn": 0.08,
+    "strongant": 0.1,
+    "weakant": 0.08
+}
