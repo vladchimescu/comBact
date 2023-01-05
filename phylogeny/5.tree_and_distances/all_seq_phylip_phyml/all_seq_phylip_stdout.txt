@@ -1,0 +1,141 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                     Starting SMS v1.8.4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Input alignment    : all_seq_phylip
+Data type          : DNA
+Number of taxa     : 10
+Number of sites    : 38005
+Number of branches : 17
+Criterion          : AIC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Step 1 : Set a fixed topology
+	AIC=396681.90846
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Step 2 : Select the best decoration
+	AIC=396681.90846	decoration : '+G+I'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Step 3 : Select the best matrix
+	AIC=0	matrix : 'GTR'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Step 4 : Select the best final decoration
+	AIC=396681.90846	decoration : '+G+I'
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Selected model				: GTR +G+I
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Substitution model			: GTR
+Equilibrium frequencies			: ML optimized
+Proportion of invariable sites		: estimated (0.163)
+Number of substitution rate categories	: 4
+Gamma shape parameter			: estimated (1.818)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Suggested citations:
+SMS
+ Vincent Lefort, Jean-Emmanuel Longueville, Olivier Gascuel.
+ "SMS: Smart Model Selection in PhyML."
+ Molecular Biology and Evolution, msx149, 2017.
+PhyML
+ S. Guindon, JF. Dufayard,  V. Lefort,  M. Anisimova,
+ W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood
+ phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Additional step : Infer tree with model : 'GTR +G+I+F'
+
+. The NNI option is deprecated. PhyML now uses a mix of SPRs and NNIs.
+
+. Command line: /data/http/www/binaries/phyml/../sms/sms/phyml-src/phyml -i /data/http/www/exec/20210303-182710_Bv13/all_seq_phylip -d nt -o tlr -m GTR -c 4 -a 1.818 -v 0.163 -f 0.28192,0.23495,0.25391,0.22922 -s NNI -b 100 --leave_duplicates --no_memory_check --print_trace --json_trace 
+
+
+
+
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+        . Sequence filename:				 all_seq_phylip
+        . Data type:					 dna
+        . Alphabet size:				 4
+        . Sequence format:				 interleaved
+        . Number of data sets:				 1
+        . Nb of bootstrapped data sets:			 100
+        . Compute approximate likelihood ratio test:	 no
+        . Model name:					 GTR
+        . Proportion of invariable sites:		 0.163000
+        . Number of subst. rate catgs:			 4
+        . Gamma distribution parameter:			 1.818000
+        . 'Middle' of each rate class:			 mean
+        . Nucleotide equilibrium frequencies:		 user-defined
+        . Optimise tree topology:			 yes
+        . Starting tree:				 BioNJ
+        . Add random input tree:			 no
+        . Optimise branch lengths:			 yes
+        . Minimum length of an edge:			 1e-08
+        . Optimise substitution model parameters:	 yes
+        . Run ID:					 none
+        . Random seed:					 1614792482
+        . Subtree patterns aliasing:			 no
+        . Version:					 3.3.20190909
+        . Byte alignment:				 32
+        . AVX enabled:					 yes
+        . SSE enabled:					 yes
+
+  ////////////////////////////////////.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.//////////////////////////////////////////
+
+
+
+. 3637 patterns found (out of a total of 38005 sites). 
+
+. 14211 sites without polymorphism (37.39%).
+
+
+. Computing pairwise distances...
+
+. Building BioNJ tree...
+
+. This analysis requires at least 17 MB of memory space.
+
+
+. Score of initial tree: -200274.73
+
+. Starting first round of SPRs...
+
+	       3s |   1 | lnL=   -198492.2 | depth=    1/   40 | improvements=   4 | delta_lnL=    0.0/ 1000.0  
+
+. Second round of optimization...
+
+	       4s |   2 | lnL=   -198684.5 | depth=    1/   36 | improvements=   6 | delta_lnL=    0.0/ 1000.0  
+	       4s |   3 | lnL=   -198690.1 | depth=    1/   20 | improvements=   2 | delta_lnL=    0.0/ 1000.0  
+
+. Third round of optimization...
+
+	       6s |   4 | lnL=   -198319.3 | depth=    1/   16 | improvements=   1 | delta_lnL=    0.0/ 1000.0 | triple moves=   5  
+	       9s |   5 | lnL=   -198314.6 | depth=    0/   12 | improvements=   0 | delta_lnL=    0.0/  100.0 | triple moves=   5  
+
+. Final optimisation steps...
+
+
+. Log likelihood of the current tree: -198313.955615790880983695388.
+
+. Launch bootstrap analysis on the most likely tree...
+
+. Non parametric bootstrap analysis 
+
+  [....................]   20/ 100
+  [....................]   40/ 100
+  [....................]   60/ 100
+  [....................]   80/ 100
+  [....................]  100/ 100
+  
+
+. Completed the bootstrap analysis succesfully.
+
+. Printing the most likely tree in file 'all_seq_phylip_phyml_tree.txt'.
+
+. Time used 0h17m33s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

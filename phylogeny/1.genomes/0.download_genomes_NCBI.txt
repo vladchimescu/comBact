@@ -1,0 +1,1 @@
+We downloaded manually the genome fasta sequences.
