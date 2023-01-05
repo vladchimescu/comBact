@@ -1,0 +1,136 @@
+Drug	code	Class_refined	Class	Master_Class	Cell_Process	main_or_HTD_screen
+Aztreonam	ATM	monobactam	beta-lactam	beta-lactams	cell wall	gramneg
+Cefaclor	CEC	cephalosporin	beta-lactam	beta-lactams	cell wall	gramneg
+Cefsulodin	CFS	cephalosporin	beta-lactam	beta-lactams	cell wall	gramneg
+Mecillinam	MCM	penicillin	beta-lactam	beta-lactams	cell wall	gramneg
+Meropenem	MEM	carbapenem	beta-lactam	beta-lactams	cell wall	gramneg
+Piperacillin	PIP	penicillin	beta-lactam	beta-lactams	cell wall	gramneg
+Sulfamonomethoxine	SMM	sulfonamide	folic_acid_biosynthesis	folate biosynthesis	DNA	gramneg
+Bleomycin	BLM	multiple	multiple	other DNA	DNA	gramneg
+Clofazimine	CLZ	phenazine	oxidative_stress	other DNA	DNA	gramneg
+Flucytosine	5FC	nucleotide_analogue	antifungal	non-antibiotic	non-antibiotic	gramneg
+Berberine	BBR	food additives	food_additive	non-antibiotic	non-antibiotic	gramneg
+Ciclopirox	CPO	NaK_ATPase	antifungal	non-antibiotic	non-antibiotic	gramneg
+Curcumin	CCM	food additives	food_additive	non-antibiotic	non-antibiotic	gramneg
+Phenformin	PNF	antidiabetic	non-antibiotic	non-antibiotic	non-antibiotic	gramneg
+Vanillin	VNL	food additives	food_additive	non-antibiotic	non-antibiotic	gramneg
+CHIR-90	CHIR90	LpxC_inhib	LPS	membrane	membrane	gramneg
+Chlorhexidine	CHG	detergent	LPS	membrane	membrane	gramneg
+Colistin	CST	polymyxin	LPS	membrane	membrane	gramneg
+Polymyxin_B	PMB	polymyxin	LPS	membrane	membrane	gramneg
+PMS	PMS	phenazine	oxidative_stress	oxidative stress/PMF	oxidative stress/PMF	gramneg
+Nonactin	NON	macrotetrolide	PMF	oxidative stress/PMF	oxidative stress/PMF	gramneg
+Amikacin	AMK	aminoglycoside	aminoglycoside	aminoglycosides	protein synthesis	gramneg
+Tobramycin	TOB	aminoglycoside	aminoglycoside	aminoglycosides	protein synthesis	gramneg
+Spiramycin	SPM	macrolide	macrolide	macrolides and ketolides	protein synthesis	gramneg
+Minocycline	MIN	tetracycline	tetracycline	tetracyclines	protein synthesis	gramneg
+Alfacalcidol	ALF	hormone analogue	human_drug	non-antibiotic	non-antibiotic	htd
+Atorvastatin	ATO	lipid-lowering	human_drug	non-antibiotic	non-antibiotic	htd
+Benzbromarone	BBM	antiarrhythmic	human_drug	non-antibiotic	non-antibiotic	htd
+Caffeine	CAF	food compound	food_additive	non-antibiotic	non-antibiotic	htd
+Celecoxib	CEL	anti-inflammatory	human_drug	non-antibiotic	non-antibiotic	htd
+Chlorpromazine	CPR	antipsychotic	human_drug	non-antibiotic	non-antibiotic	htd
+Cilnidipine	CIL	CCB	human_drug	non-antibiotic	non-antibiotic	htd
+Clomiphene	CLM	hormone analogue	human_drug	non-antibiotic	non-antibiotic	htd
+Clopidogrel	CLO	antiaggregant	human_drug	non-antibiotic	non-antibiotic	htd
+Diacerein	DIA	anti-inflammatory	human_drug	non-antibiotic	non-antibiotic	htd
+Diclofenac	DIC	anti-inflammatory	human_drug	non-antibiotic	non-antibiotic	htd
+Diflunisal	DFL	anti-inflammatory	human_drug	non-antibiotic	non-antibiotic	htd
+Entacapone	ENT	antiparkinson	human_drug	non-antibiotic	non-antibiotic	htd
+Estradiol	EST	hormone analogue	human_drug	non-antibiotic	non-antibiotic	htd
+Felodipine	FEL	CCB	human_drug	non-antibiotic	non-antibiotic	htd
+Fluorouracil	5FU	antineoplastic	other_DNA	non-antibiotic	non-antibiotic	htd
+Gefitinib	GEF	TKI	human_drug	non-antibiotic	non-antibiotic	htd
+Hexestrol	HEX	hormone analogue	human_drug	non-antibiotic	non-antibiotic	htd
+Ibuprofen	IBU	anti-inflammatory	human_drug	non-antibiotic	non-antibiotic	htd
+Loratadine	LOR	antihistamine	human_drug	non-antibiotic	non-antibiotic	htd
+Losartan	LOS	ARB	human_drug	non-antibiotic	non-antibiotic	htd
+Loxapine	LOX	antipsychotic	human_drug	non-antibiotic	non-antibiotic	htd
+Meclizine	MEC	antihistamine	human_drug	non-antibiotic	non-antibiotic	htd
+Mesalamine	MSM	anti-rheumatic-immune-modulating	human_drug	non-antibiotic	non-antibiotic	htd
+Metformin	MTF	antidiabetic	human_drug	non-antibiotic	non-antibiotic	htd
+Methotrexate	MTX	anti-rheumatic-immune-modulating	human_drug	non-antibiotic	non-antibiotic	htd
+Methylprednisolone	MPD	anti-rheumatic-immune-modulating	human_drug	non-antibiotic	non-antibiotic	htd
+Montelukast	MON	anti-rheumatic-immune-modulating	human_drug	non-antibiotic	non-antibiotic	htd
+Naphazoline	NAP	antihistamine	human_drug	non-antibiotic	non-antibiotic	htd
+Nicotine	NIC	food compound	food_additive	non-antibiotic	non-antibiotic	htd
+Omeprazole	OME	PPI	human_drug	non-antibiotic	non-antibiotic	htd
+Oxymetazoline	OXY	antihistamine	human_drug	non-antibiotic	non-antibiotic	htd
+Promazine	PRO	antipsychotic	human_drug	non-antibiotic	non-antibiotic	htd
+Quercetin	QUE	food compound	human_drug	non-antibiotic	non-antibiotic	htd
+Salmeterol	SML	beta-agonist	human_drug	non-antibiotic	non-antibiotic	htd
+Spironolactone	SPI	diuretic	human_drug	non-antibiotic	non-antibiotic	htd
+Sucrose	SUC	ointment preservative	human_drug	non-antibiotic	non-antibiotic	htd
+Tamoxifene	TAM	hormone analogue	human_drug	non-antibiotic	non-antibiotic	htd
+Telmisartan	TLM	ARB	human_drug	non-antibiotic	non-antibiotic	htd
+Thymol	THY	food compound	food_additive	non-antibiotic	non-antibiotic	htd
+Ticagrelor	TIC	antiaggregant	human_drug	non-antibiotic	non-antibiotic	htd
+Tiratricol	TIR	hormone analogue	human_drug	non-antibiotic	non-antibiotic	htd
+Tolfenamic	TOL	anti-inflammatory	human_drug	non-antibiotic	non-antibiotic	htd
+Troglitazone	TRO	antidiabetic	human_drug	non-antibiotic	non-antibiotic	htd
+Verapamil	VPM	antiarrhythmic	human_drug	non-antibiotic	non-antibiotic	htd
+Amoxicillin	AMX	beta-lactam	beta-lactam	beta-lactams	cell wall	main
+Amoxicillinclavulanic	AMXCLA	combination	beta-lactam	beta-lactams	cell wall	main
+Cefepime	FEP	beta-lactam	beta-lactam	beta-lactams	cell wall	main
+Cefotaxime	CTX	beta-lactam	beta-lactam	beta-lactams	cell wall	main
+Cefuroxime	CXA	beta-lactam	beta-lactam	beta-lactams	cell wall	main
+Cephalexin	LEX	beta-lactam	beta-lactam	beta-lactams	cell wall	main
+Clavulanic	CLA	beta-lactamase_inhib	beta-lactam	beta-lactams	cell wall	main
+Imipenem	IPM	carbapenem	beta-lactam	beta-lactams	cell wall	main
+Oxacillin	OXA	beta-lactam	beta-lactam	beta-lactams	cell wall	main
+PenicillinG	PEN	beta-lactam	beta-lactam	beta-lactams	cell wall	main
+Daptomycin	DAP	lipopeptide	other_cell wall	glycopeptides and lipopeptides	cell wall	main
+Oritavancin	ORI	glycopeptide	other_cell wall	glycopeptides and lipopeptides	cell wall	main
+Teicoplanin	TEC	glycopeptide	other_cell wall	glycopeptides and lipopeptides	cell wall	main
+Vancomycin	VAN	glycopeptide	other_cell wall	glycopeptides and lipopeptides	cell wall	main
+Bacitracin	BAC	polycyclic_peptide	other_cell wall	other cell wall	cell wall	main
+CycloserineD	DCS	D-Ala_analogue	other_cell wall	other cell wall	cell wall	main
+Fosfomycin	FOF	phosphoenolpyruvate_analogue	other_cell wall	other cell wall	cell wall	main
+Nisin	NSN	polycyclic_peptide	other_cell wall	other cell wall	cell wall	main
+Metronidazole	MTR	nitroimidazole	other_DNA	DNA/oxidative stress	DNA	main
+Nitrofurantoin	NIT	nitrofuran	other_DNA	DNA/oxidative stress	DNA	main
+Phleomycin	PLM	glycopeptide	other_DNA	DNA/oxidative stress	DNA	main
+Ciprofloxacin	CIP	quinolone	DNA_gyrase	fluoroquinolones	DNA	main
+Levofloxacin	LCX	quinolone	DNA_gyrase	fluoroquinolones	DNA	main
+Moxifloxacin	MXF	quinolone	DNA_gyrase	fluoroquinolones	DNA	main
+Cotrimoxazole	SMXTMP	combination	folic_acid_biosynthesis	folate biosynthesis	DNA	main
+Sulfamethoxazol	SMX	sulfonamide	folic_acid_biosynthesis	folate biosynthesis	DNA	main
+Trimethoprim	TMP	folic_acid_biosynthesis	folic_acid_biosynthesis	folate biosynthesis	DNA	main
+Doxorubicin	DXR	antineoplastic	human_drug	non-antibiotic	non-antibiotic	main
+MitomycinC	MMC	antineoplastic	human_drug	non-antibiotic	non-antibiotic	main
+Novobiocin	NVB	coumarin	DNA_gyrase	other DNA	DNA	main
+Rifampicin	RIF	RNA_polymerase	transcription	other DNA	DNA	main
+Benzalkonium	BZK	detergent	membrane	membrane	membrane	main
+EGCG	EGCG	food additives	fatty_acid_biosynthesis	membrane	membrane	main
+Triclosan	TRI	fatty_acid_biosynthesis	fatty_acid_biosynthesis	membrane	membrane	main
+Acetylsalicylicacid	ASA	anti-inflammatory	human_drug	non-antibiotic	non-antibiotic	main
+Auranofin	AUR	anti-inflammatory	human_drug	non-antibiotic	non-antibiotic	main
+Loperamide	LOP	anti-diarrhoeal	human_drug	non-antibiotic	non-antibiotic	main
+Miconazole	MCZ	imidazole	antifungal	non-antibiotic	non-antibiotic	main
+Procaine	PRC	anaesthetics	human_drug	non-antibiotic	non-antibiotic	main
+Streptozotocin	STZ	antineoplastic	human_drug	non-antibiotic	non-antibiotic	main
+CCCP	CCCP	PMF	PMF-disruptors	oxidative stress/PMF	oxidative stress/PMF	main
+Paraquat	PQ	oxidative stress	oxidative-stress inducers	oxidative stress/PMF	oxidative stress/PMF	main
+Pyocyanin	PYO	phenazine	oxidative-stress inducers	oxidative stress/PMF	oxidative stress/PMF	main
+ADEP	ADEP	ClpP_inhibitor	ClpP_inhibitor	protein degradation	protein degradation	main
+U1	U1	ClpP_inhibitor	ClpP_inhibitor	protein degradation	protein degradation	main
+Gentamicin	GEN	aminoglycoside	aminoglycoside	aminoglycosides	protein synthesis	main
+Spectinomycin	SPT	aminocyclitol	aminoglycoside	aminoglycosides	protein synthesis	main
+Streptomycin	STR	aminoglycoside	aminoglycoside	aminoglycosides	protein synthesis	main
+Clindamycin	CLI	lincosamide	lincosamide	lincosamides	protein synthesis	main
+Lincomycin	LIN	lincosamide	lincosamide	lincosamides	protein synthesis	main
+Azithromycin	AZM	macrolide	macrolide	macrolides and ketolides	protein synthesis	main
+Clarithromycin	CLR	macrolide	macrolide	macrolides and ketolides	protein synthesis	main
+Erythromycin	ERI	macrolide	macrolide	macrolides and ketolides	protein synthesis	main
+Telithromycin	TEL	ketolide	macrolide	macrolides and ketolides	protein synthesis	main
+Chloramphenicol	CHL	amphenicol	chloramphenicol	other protein synthesis	protein synthesis	main
+Fusidic acid	FUS	steroid	other_protein synthesis	other protein synthesis	protein synthesis	main
+Pseudomonic acid	MUP	tRNA_analogue	tRNA	other protein synthesis	protein synthesis	main
+Puromycin	PUR	aminonucleoside	tRNA	other protein synthesis	protein synthesis	main
+Linezolid	LZD	oxazolidinone	oxazolidinone	oxazolidinones	protein synthesis	main
+Tedizolid	TZD	oxazolidinone	oxazolidinone	oxazolidinones	protein synthesis	main
+Pristinamycin	PRI	streptogramin	streptogramin	streptogramins	protein synthesis	main
+Virginiamycin M1	VIR	streptogramin	streptogramin	streptogramins	protein synthesis	main
+Clortetracycline	CTC	tetracycline	tetracycline	tetracyclines	protein synthesis	main
+Doxycycline	DOX	tetracycline	tetracycline	tetracyclines	protein synthesis	main
+Tigecycline	TGC	tetracycline	tetracycline	tetracyclines	protein synthesis	main
