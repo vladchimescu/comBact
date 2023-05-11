@@ -9,8 +9,8 @@ The repository tree has the following structure:
 + `dataprep` folder: R scripts for pre-processing of the raw screen data
 + `qualitycheck` directory: scripts for quality control
 + `analysis`: high-level analysis of the screen data, computation of interaction scores, p-values and network analysis
-+ `phylogeny`: code and data for the phylogeny analysis
-+ `growthrates`: growthrates from fitting a Baranyi model
++ `phylogeny`: code and data for the phylogeny analysis presented in Fig. 1e
++ `growthrates`: growthrates from fitting a Baranyi model (Methods)
 
 Note that here we use the following codes for the 4 Gram-positive bacterial strains:
 Code | Strain
